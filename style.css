@@ -1,0 +1,73 @@
+/*Style & Color*/
+
+body{
+background: rgb(230,150,130);
+color: rgb(20,20,20);
+font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+	font-family: 'KoHo', sans-serif;
+	font-size: 50px;
+	color: #D6B7A0;
+	text-align: center;
+    background-size: cover;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+h2{
+	font-size: 20px;
+}
+a{
+	text-decoration: none;
+	color: #A1C1FF;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #A49FA5
+}
+
+#Banner{
+	text-align: center;
+ 	background-image: url("https://images.unsplash.com/photo-1502078288955-0285a7e9b4fa?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80");
+ 	background-size: cover;
+ 	padding: 150px;
+  	color: #152251;
+}
+#Banner h1{
+	text-align: center;
+	color: #D6B7A0
+	font-size: 50px;
+}
+#Banner p{
+	text-align: center;
+	color: #D6B7A0;
+	opacity: 0.8;
+	font-size: 30px;
+	font-weight: lighter;
+}
+.section{
+	text-align: center;
+	padding: 50px;
+	font-weight: lighter;
+}
+#Footer{
+	text-align: center;
+	padding: :30px;
+	background: cornsilk;
+	color: lightgrey;
+}
+#Footer a{
+  	color: rgb(230,150,130);
+ 	font-size: 50px;
+}
+
+#Footer a:hover {
+ 	color: white;
+}
+#myface{
+	border-radius: 500px;
+	margin: 10px;
+}
